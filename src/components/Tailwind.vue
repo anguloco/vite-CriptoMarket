@@ -14,7 +14,8 @@
       "
     >
       <a href="#">
-        <img class="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
+      
+      <!--  <img class="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" /> --> Do not need image for card
       </a>
       <div class="p-5">
         <a href="#">
